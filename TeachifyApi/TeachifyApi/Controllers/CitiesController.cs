@@ -18,20 +18,20 @@ namespace TeachifyApi.Controllers
 
         private readonly List<City> _cities = new List<City>()
         {
-            new City() {Name = "Alabama"},
-            new City() {Name = "Alaska"},
-            new City() {Name = "California"},
-            new City() {Name = "Florida"},
-            new City() {Name = "Georgia"},
-            new City() {Name = "Indiana"},
-            new City() {Name = "Louisiana"},
-            new City() {Name = "Mississippi"},
-            new City() {Name = "New Mexico"},
-            new City() {Name = "New York"},
-            new City() {Name = "Pennsylvania"},
-            new City() {Name = "Seattle"},
-            new City() {Name = "Texas"},
-            new City() {Name = "Washington"},
+            new City() {Name = "Auckland"},
+            new City() {Name = "Tauranga"},
+            new City() {Name = "Wellington"},
+            new City() {Name = "Napier"},
+            new City() {Name = "Dunedin"},
+            new City() {Name = "Invercargill"},
+            new City() {Name = "Christchurch"},
+            new City() {Name = "Ashburton"},
+            new City() {Name = "New Plymouth"},
+            new City() {Name = "Palmerston North"},
+            new City() {Name = "Masterton"},
+            new City() {Name = "Greymouth"},
+            new City() {Name = "Hamilton"},
+            new City() {Name = "Wanganui"},
         };
 
         // GET: api/Cities
